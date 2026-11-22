@@ -1,0 +1,27 @@
+ANBLOX V26 - COMPLETE START FOLDER
+=================================
+
+START/anblox-pwa/ contains the ENTIRE static game including the race interface.
+START/multiplayer-server/ is the OPTIONAL server, NOT for public website hosting.
+
+IMPORTANT: This release is ONLY repackaged; no gameplay files were altered.
+
+For an existing GitHub + Vercel deployment:
+1. Back up your GitHub repository (Code > Download ZIP) and any edited question-bank.js.
+2. Upload the complete Start/ folder and preserve subfolders.
+3. In Vercel Project Settings > Build and Deployment > Root Directory, set:
+       Start/anblox-pwa
+   This is required if you use the Start folder exactly as supplied.
+   Leave Framework Preset as Other for a static site unless your project differs.
+4. Deploy and confirm the page opens on the SAME URL as before.
+5. On the iPhone, load the site in Safari and confirm old progress is present.
+   Do not clear Safari site data or uninstall the Home Screen app before checking.
+6. Multiplayer requires separately deploying START/multiplayer-server/
+   to a Node.js WebSocket host, then configuring the race server URL.
+
+If your Vercel Root Directory must remain at the GitHub repo root, upload
+ONLY the CONTENTS of START/anblox-pwa directly into the existing served folder.
+Do NOT put multiplayer-server inside the deployed public web root.
+
+GitHub does not track folders as single objects, so replacing a directory
+in a Git checkout via GitHub Desktop is easiest for bulk updates.

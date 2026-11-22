@@ -1,0 +1,262 @@
+[
+  {
+    "id": "q1",
+    "question": "What is 18 + 7?",
+    "choices": [
+      "24",
+      "25",
+      "26",
+      "23"
+    ],
+    "correctIndex": 1,
+    "subject": "math",
+    "topic": "addition"
+  },
+  {
+    "id": "q2",
+    "question": "What is the capital of Bangladesh?",
+    "choices": [
+      "Chattogram",
+      "Khulna",
+      "Dhaka",
+      "Sylhet"
+    ],
+    "correctIndex": 2,
+    "subject": "geography",
+    "topic": "countries"
+  },
+  {
+    "id": "q3",
+    "question": "Which planet is closest to the Sun?",
+    "choices": [
+      "Mercury",
+      "Venus",
+      "Earth",
+      "Mars"
+    ],
+    "correctIndex": 0,
+    "subject": "science",
+    "topic": "space"
+  },
+  {
+    "id": "q4",
+    "question": "What is 6 × 7?",
+    "choices": [
+      "36",
+      "48",
+      "49",
+      "42"
+    ],
+    "correctIndex": 3,
+    "subject": "math",
+    "topic": "multiplication"
+  },
+  {
+    "id": "q5",
+    "question": "Which civilization built the pyramids at Giza?",
+    "choices": [
+      "Ancient Romans",
+      "Ancient Egyptians",
+      "Ancient Greeks",
+      "Vikings"
+    ],
+    "correctIndex": 1,
+    "subject": "history",
+    "topic": "ancient-history"
+  },
+  {
+    "id": "q6",
+    "question": "Which animal is a mammal?",
+    "choices": [
+      "Dolphin",
+      "Shark",
+      "Octopus",
+      "Trout"
+    ],
+    "correctIndex": 0,
+    "subject": "nature",
+    "topic": "animals"
+  },
+  {
+    "id": "q7",
+    "question": "Which is the largest ocean on Earth?",
+    "choices": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correctIndex": 3,
+    "subject": "geography",
+    "topic": "earth"
+  },
+  {
+    "id": "q8",
+    "question": "What is half of 18?",
+    "choices": [
+      "6",
+      "8",
+      "9",
+      "12"
+    ],
+    "correctIndex": 2,
+    "subject": "math",
+    "topic": "fractions"
+  },
+  {
+    "id": "q9",
+    "question": "What is the national flower of Bangladesh?",
+    "choices": [
+      "Rose",
+      "Water lily (Shapla)",
+      "Sunflower",
+      "Lotus"
+    ],
+    "correctIndex": 1,
+    "subject": "bangladesh",
+    "topic": "national-symbols"
+  },
+  {
+    "id": "q10",
+    "question": "What do most green plants absorb from sunlight to make food?",
+    "choices": [
+      "Light energy",
+      "Sound",
+      "Heat from the Moon",
+      "Wind"
+    ],
+    "correctIndex": 0,
+    "subject": "science",
+    "topic": "plants"
+  },
+  {
+    "id": "q11",
+    "question": "What is 56 ÷ 8?",
+    "choices": [
+      "6",
+      "8",
+      "9",
+      "7"
+    ],
+    "correctIndex": 3,
+    "subject": "math",
+    "topic": "division"
+  },
+  {
+    "id": "q12",
+    "question": "Which continent is Kenya in?",
+    "choices": [
+      "Asia",
+      "Europe",
+      "Africa",
+      "South America"
+    ],
+    "correctIndex": 2,
+    "subject": "geography",
+    "topic": "continents"
+  },
+  {
+    "id": "q13",
+    "question": "What invention made it much easier to print many books?",
+    "choices": [
+      "Telescope",
+      "Printing press",
+      "Compass",
+      "Steam engine"
+    ],
+    "correctIndex": 1,
+    "subject": "history",
+    "topic": "inventions"
+  },
+  {
+    "id": "q14",
+    "question": "Which organ pumps blood through the body?",
+    "choices": [
+      "Heart",
+      "Lungs",
+      "Brain",
+      "Stomach"
+    ],
+    "correctIndex": 0,
+    "subject": "science",
+    "topic": "human-body"
+  },
+  {
+    "id": "q15",
+    "question": "How many sides does a hexagon have?",
+    "choices": [
+      "5",
+      "7",
+      "6",
+      "8"
+    ],
+    "correctIndex": 2,
+    "subject": "math",
+    "topic": "geometry"
+  },
+  {
+    "id": "q16",
+    "question": "Which large forest in Bangladesh is famous for mangrove trees?",
+    "choices": [
+      "Lawachara",
+      "Madhupur",
+      "Bhawal",
+      "Sundarbans"
+    ],
+    "correctIndex": 3,
+    "subject": "bangladesh",
+    "topic": "geography"
+  },
+  {
+    "id": "q17",
+    "question": "Which habitat is especially dry and receives very little rain?",
+    "choices": [
+      "Rainforest",
+      "Desert",
+      "Wetland",
+      "River"
+    ],
+    "correctIndex": 1,
+    "subject": "nature",
+    "topic": "habitats"
+  },
+  {
+    "id": "q18",
+    "question": "At normal air pressure, what temperature does water freeze at?",
+    "choices": [
+      "10°C",
+      "50°C",
+      "0°C",
+      "100°C"
+    ],
+    "correctIndex": 2,
+    "subject": "science",
+    "topic": "matter"
+  },
+  {
+    "id": "q19",
+    "question": "You have 4 bags with 5 marbles each. How many marbles?",
+    "choices": [
+      "20",
+      "9",
+      "15",
+      "25"
+    ],
+    "correctIndex": 0,
+    "subject": "math",
+    "topic": "word-problems"
+  },
+  {
+    "id": "q20",
+    "question": "What is the capital city of Japan?",
+    "choices": [
+      "Osaka",
+      "Kyoto",
+      "Seoul",
+      "Tokyo"
+    ],
+    "correctIndex": 3,
+    "subject": "geography",
+    "topic": "countries"
+  }
+]

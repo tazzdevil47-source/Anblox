@@ -1,0 +1,210 @@
+[
+  {
+    "id": "rainbow",
+    "name": "Rainbow Run",
+    "emoji": "🌈",
+    "sky": "#b8ecff",
+    "ground": "#e7bdfd",
+    "obstacles": [
+      {
+        "meter": 4.1,
+        "lane": 0
+      },
+      {
+        "meter": 8.2,
+        "lane": 1
+      },
+      {
+        "meter": 12.5,
+        "lane": 2
+      },
+      {
+        "meter": 17.4,
+        "lane": 0
+      },
+      {
+        "meter": 21.8,
+        "lane": 1
+      },
+      {
+        "meter": 26.1,
+        "lane": 2
+      }
+    ],
+    "length": 30,
+    "kind": "sprint",
+    "description": "Classic 30m race · 20 questions · dodge hurdles"
+  },
+  {
+    "id": "island",
+    "name": "Island Dash",
+    "emoji": "🏝️",
+    "sky": "#b5efff",
+    "ground": "#e8d09a",
+    "obstacles": [
+      {
+        "meter": 5.2,
+        "lane": 1
+      },
+      {
+        "meter": 9.3,
+        "lane": 2
+      },
+      {
+        "meter": 14.0,
+        "lane": 0
+      },
+      {
+        "meter": 18.4,
+        "lane": 1
+      },
+      {
+        "meter": 23.2,
+        "lane": 2
+      },
+      {
+        "meter": 27.5,
+        "lane": 0
+      }
+    ],
+    "length": 30,
+    "kind": "sprint",
+    "description": "Classic 30m race · 20 questions · dodge hurdles"
+  },
+  {
+    "id": "sky-jump",
+    "name": "Sky Jump Race",
+    "emoji": "🦘",
+    "kind": "jump",
+    "length": 75,
+    "description": "75m obstacle course · leap over hurdles · 20 questions",
+    "sky": "#a4eaff",
+    "ground": "#b3ebcf",
+    "obstacles": [
+      {
+        "meter": 4.5,
+        "lane": 1
+      },
+      {
+        "meter": 8.8,
+        "lane": 0
+      },
+      {
+        "meter": 13.1,
+        "lane": 2
+      },
+      {
+        "meter": 17.4,
+        "lane": 1
+      },
+      {
+        "meter": 21.7,
+        "lane": 0
+      },
+      {
+        "meter": 26.0,
+        "lane": 2
+      },
+      {
+        "meter": 30.3,
+        "lane": 1
+      },
+      {
+        "meter": 34.6,
+        "lane": 0
+      },
+      {
+        "meter": 38.9,
+        "lane": 2
+      },
+      {
+        "meter": 43.2,
+        "lane": 1
+      },
+      {
+        "meter": 47.5,
+        "lane": 0
+      },
+      {
+        "meter": 51.8,
+        "lane": 2
+      },
+      {
+        "meter": 56.1,
+        "lane": 1
+      },
+      {
+        "meter": 60.4,
+        "lane": 0
+      },
+      {
+        "meter": 64.7,
+        "lane": 2
+      },
+      {
+        "meter": 69.0,
+        "lane": 1
+      }
+    ]
+  },
+  {
+    "id": "grand-marathon",
+    "name": "Grand Running Race",
+    "emoji": "🏃",
+    "kind": "long",
+    "length": 300,
+    "description": "300m endurance run · longer straights · 20 questions",
+    "sky": "#f7d2ff",
+    "ground": "#afdfeb",
+    "obstacles": [
+      {
+        "meter": 18,
+        "lane": 0
+      },
+      {
+        "meter": 41,
+        "lane": 1
+      },
+      {
+        "meter": 64,
+        "lane": 2
+      },
+      {
+        "meter": 87,
+        "lane": 0
+      },
+      {
+        "meter": 110,
+        "lane": 1
+      },
+      {
+        "meter": 133,
+        "lane": 2
+      },
+      {
+        "meter": 156,
+        "lane": 0
+      },
+      {
+        "meter": 179,
+        "lane": 1
+      },
+      {
+        "meter": 202,
+        "lane": 2
+      },
+      {
+        "meter": 225,
+        "lane": 0
+      },
+      {
+        "meter": 248,
+        "lane": 1
+      },
+      {
+        "meter": 271,
+        "lane": 2
+      }
+    ]
+  }
+]
